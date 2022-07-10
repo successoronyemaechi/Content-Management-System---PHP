@@ -1,5 +1,5 @@
 {
-    "name": "successoronyemaechiSS/cms",
+    "name": "successoronyemaechi/cms",
     "require": {
         "phpmailer/phpmailer": "^5.2",
         "pusher/pusher-php-server": "^3.0",
